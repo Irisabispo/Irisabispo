@@ -25,7 +25,7 @@
 <h3 align="center">🌙 currently learning</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,mysql" />
+   <img src="https://img.shields.io/badge/HTML5-122F2B?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 <p align="center">♡ ˚₊‧🫧₊˚ ✦ 🌸 ✦ ₊˚🫧‧₊˚ ♡</p>
@@ -38,17 +38,6 @@ Organização • Produtividade • Código Limpo • Interfaces Responsivas
 <p align="center">♡ ˚₊‧🫧₊˚ ✦ 🌸 ✦ ₊˚🫧‧₊˚ ♡</p>
 
 <br>
-
-<h3 align="center">📊 github stats</h3>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Irisabispo&show_icons=true&theme=transparent&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9"/>
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irisabispo&layout=compact&theme=transparent&hide_border=true&title_color=ff69b4&text_color=c9d1d9"/>
-</p>
-
 
 <h3 align="center">✦‧₊ find me here</h3>
 
