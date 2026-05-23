@@ -30,39 +30,43 @@
 
 <p align="center">♡ ˚₊‧🫧₊˚ ✦ 🌸 ✦ ₊˚🫧‧₊˚ ♡</p>
 
-<h3 align="center">💻 skills</h3>
+<h3 align="center">🌷 principles</h3>
 
 <p align="center">
-Frontend • Organização • Criatividade • Interfaces
+Organização • Produtividade • Código Limpo • Interfaces Responsivas
 </p>
+<p align="center">♡ ˚₊‧🫧₊˚ ✦ 🌸 ✦ ₊˚🫧‧₊˚ ♡</p>
 
-<p align="center">🌸 ✨ 🌸</p>
-
+<br>
 
 <h3 align="center">📊 github stats</h3>
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Irisabispo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Irisabispo&show_icons=true&theme=transparent&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irisabispo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irisabispo&layout=compact&theme=transparent&hide_border=true&title_color=ff69b4&text_color=c9d1d9"/>
 </p>
 
 
-<h3 align="center">💜 contato</h3>
+<h3 align="center">✦‧₊ find me here</h3>
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/iris-bispo">
+  <a href="https://www.linkedin.com/in/iris-bispo">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
+  </a>
+
+  <a href="mailto:irisabispo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-f8bbd0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-🖤 README em construção 🖤
+✨ still creating, still learning ✨
 </p>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=100&section=footer"/>
