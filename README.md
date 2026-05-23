@@ -25,7 +25,7 @@
 <h3 align="center">🌙 currently learning</h3>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/HTML5-122F2B?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/HTML5-FF98BB?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 <p align="center">♡ ˚₊‧🫧₊˚ ✦ 🌸 ✦ ₊˚🫧‧₊˚ ♡</p>
