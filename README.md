@@ -5,8 +5,6 @@
 ♡ transformando curiosidade em projetos criativos.
 </p>
 
-<p align="center">♡ ˚₊‧🫧₊˚ ✦ 🌸 ✦ ₊˚🫧‧₊˚ ♡</p>
-
 <p align="center">
 🫧 explorando tecnologia, interfaces e novas possibilidades.
 </p>
@@ -36,6 +34,7 @@
 <h3 align="center">✨ already know</h3>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-FF98BB?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-FF98BB?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-FF98BB?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-FF98BB?style=for-the-badge&logo=git&logoColor=white"/>
