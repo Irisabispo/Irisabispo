@@ -34,9 +34,10 @@
 <h3 align="center">✨ already know</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-FF98BB?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-FF98BB?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-FF98BB?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SCSS-FF98BB?style=for-the-badge&logo=scss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-FF98BB?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-FF98BB?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-FF98BB?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/VSCode-FF98BB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
