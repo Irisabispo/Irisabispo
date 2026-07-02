@@ -29,8 +29,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-FF98BB?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-<p align="center">♡ ˚₊‧🫧₊˚ ✦ 🌸 ✦ ₊˚🫧‧₊˚ ♡</p>
-
 <h3 align="center">✨ already know</h3>
 
 <p align="center">
@@ -42,8 +40,6 @@
     <img src="https://img.shields.io/badge/GitHub-FF98BB?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/VSCode-FF98BB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
-<p align="center">♡ ˚₊‧🫧₊˚ ✦ 🌸 ✦ ₊˚🫧‧₊˚ ♡</p>
 
 <h3 align="center">🌷 principles</h3>
 
