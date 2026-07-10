@@ -14,7 +14,7 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> apaixonada 
 
 <p align="center">
   <img
-    src="./assets/doroteia/coding-default.png"
+    src="./assets/images/doroteia/coding-default.png"
     width="320"
     alt="Dorotéia.dev programando"
   />
