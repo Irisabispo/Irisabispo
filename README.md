@@ -121,12 +121,12 @@ Porque acredito que aprender a encontrar respostas é tão importante quanto con
 <img src="https://img.shields.io/badge/LinkedIn-FF98BB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:irisabispo@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF98BB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://iris-bispo-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:irisabispo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF98BB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
