@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=220&section=header&text=Iris%20Bispo&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=220&section=header&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <h2 align="center">
 Desenvolvedora Front-end em formação
@@ -142,4 +142,4 @@ Porque acredito que aprender a encontrar respostas é tão importante quanto con
 Até o próximo commit.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7&height=120&section=footer"/>
