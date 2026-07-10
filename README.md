@@ -5,9 +5,20 @@
 Desenvolvedora Front-end em formação
 </h2>
 
-<p align="center">
-Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> apaixonada por organização, criatividade e aprendizado contínuo.
+
 </p>
+
+## Quem sou
+
+Olá! Eu sou a **Iris**.
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por desenvolvimento Front-end.
+
+Gosto de criar interfaces organizadas, aprender continuamente e transformar curiosidade em projetos que unem funcionalidade, criatividade e propósito.
+
+> *"Organizar ideias é o primeiro passo para transformar código em algo bonito, útil e memorável."*
+
+---
 
 <p align="center">
 <strong>Transformando organização, criatividade e código em experiências digitais.</strong>
@@ -28,19 +39,6 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> apaixonada 
 
 <p align="center">
 ────────────୨୧────────────
-</p>
-
-## Quem sou
-
-Olá! Eu sou a **Iris**.
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por desenvolvimento Front-end.
-
-Gosto de criar interfaces organizadas, aprender continuamente e transformar curiosidade em projetos que unem funcionalidade, criatividade e propósito.
-
-> *"Organizar ideias é o primeiro passo para transformar código em algo bonito, útil e memorável."*
-
----
 
 ## Tecnologias e ferramentas
 
