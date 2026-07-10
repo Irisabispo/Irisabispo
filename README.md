@@ -1,73 +1,145 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=200&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Iris%20Bispo&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">🌸 I'm Iris 🌸</h1>
+<h2 align="center">
+Desenvolvedora Front-end em formação
+</h2>
+
 <p align="center">
-♡ transformando curiosidade em projetos criativos.
+Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> apaixonada por organização, criatividade e aprendizado contínuo.
 </p>
 
 <p align="center">
-🫧 explorando tecnologia, interfaces e novas possibilidades.
+<strong>Transformando organização, criatividade e código em experiências digitais.</strong>
 </p>
 
 <p align="center">
-🌷 criando coisas com personalidade e ideias organizadas.
+  <img
+    src="./assets/doroteia/coding-default.png"
+    width="320"
+    alt="Dorotéia.dev programando"
+  />
 </p>
 
 <p align="center">
-🎀 tentando deixar meu GitHub tão organizado quanto meus pensamentos.
+  <strong>Dorotéia.dev</strong><br>
+  <em>Guardiã do Código.</em>
 </p>
-
-<br>
-<p align="center">♡ ˚₊‧🫧₊˚ ✦ 🌸 ✦ ₊˚🫧‧₊˚ ♡</p>
-
-<h3 align="center">🌙 currently learning</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/React-FF98BB?style=for-the-badge&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-FF98BB?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL-FF98BB?style=for-the-badge&logo=sql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bootstrap-FF98BB?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+────────────୨୧────────────
 </p>
 
-<h3 align="center">✨ already know</h3>
+## Quem sou
+
+Olá! Eu sou a **Iris**.
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por desenvolvimento Front-end.
+
+Gosto de criar interfaces organizadas, aprender continuamente e transformar curiosidade em projetos que unem funcionalidade, criatividade e propósito.
+
+> *"Organizar ideias é o primeiro passo para transformar código em algo bonito, útil e memorável."*
+
+---
+
+## Tecnologias e ferramentas
 
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML-FF98BB?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-FF98BB?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SCSS-FF98BB?style=for-the-badge&logo=scss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-FF98BB?style=for-the-badge&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-FF98BB?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-FF98BB?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VSCode-FF98BB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-FF98BB?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-FF98BB?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-FF98BB?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FF98BB?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FF98BB?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FF98BB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-FF98BB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-FF98BB?style=for-the-badge&logo=figma&logoColor=white"/>
+
 </p>
 
-<h3 align="center">🌷 principles</h3>
+---
+
+## Atualmente estudando
 
 <p align="center">
-Organização • Produtividade • Código Limpo • Interfaces Responsivas
+
+<img src="https://img.shields.io/badge/TypeScript-FF98BB?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-FF98BB?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Técnicas_de_Programação_com_Python-FF98BB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
-<br>
-<p align="center">♡ ˚₊‧🫧₊˚ ✦ 🌸 ✦ ₊˚🫧‧₊˚ ♡</p>
 
-<br>
+---
 
-<h3 align="center">✦‧₊ find me here</h3>
+## Minha filosofia de aprendizado
 
+> **"Minha maior habilidade não é saber todas as respostas, mas ter curiosidade suficiente para encontrá-las."**
+
+A tecnologia muda todos os dias.
+
+**A minha vontade de aprender também.**
+
+Quando não sei alguma coisa, pesquiso, estudo, testo, erro, tento novamente e sigo aprendendo.
+
+Porque acredito que aprender a encontrar respostas é tão importante quanto conhecê-las.
+
+---
+
+## Princípios
+
+- Organização
+- Curiosidade
+- Aprendizado contínuo
+- Código limpo
+- Interfaces responsivas
+- Atenção aos detalhes
+- Compartilhar conhecimento
+
+---
+
+## Projetos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iris-bispo">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:irisabispo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-f8bbd0?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://github.com/Irisabispo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://iris-bispo-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
-<br>
+---
+
+## Contato
 
 <p align="center">
-✨ still creating, still learning ✨
+
+<a href="https://www.linkedin.com/in/iris-bispo">
+<img src="https://img.shields.io/badge/LinkedIn-FF98BB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:irisabispo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF98BB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://iris-bispo-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=100&section=footer"/>
+
+<p align="center">
+────────────୨୧────────────
+</p>
+
+<p align="center">
+<strong>Entre ideias bem organizadas, linhas de código e muito tereré, é assim que meus projetos ganham vida.</strong>
+</p>
+
+<p align="center">
+Até o próximo commit.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer"/>
