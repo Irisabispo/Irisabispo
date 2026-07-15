@@ -95,7 +95,7 @@ Porque acredito que aprender a encontrar respostas é tão importante quanto con
 
 ---
 
-## Projetos
+## Meus Projetos
 
 <p align="center">
 
